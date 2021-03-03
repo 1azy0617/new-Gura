@@ -47,4 +47,4 @@ client.once('ready', () => {
 
 //});
 
- client.login('ODE0NzAwOTQ0NzEyMjY5ODU0.YDhrYQ.4ey8vhHsAlT7XG0MpHGEQGtKgjI');
+ client.login('TOKEN');
